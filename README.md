@@ -29,13 +29,13 @@ The prediction will be based on the provided information.
 
 ---
 
-## Linear Ridge Lasso Regression Model
+## Regression Analysis & Evaluation
 
-To predict the specific count of illegal parking incidents, we employed the Linear Ridge Lasso regression model. The model was evaluated using metrics such as Mean Squared Error (MSE) and Mean Absolute Percentage Error (MAPE). The results indicated that the Ridge model achieved the highest accuracy.
+To predict the specific count of illegal parking incidents, we employed the Linear Ridge Lasso regression model. The model was evaluated using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE) and Mean Absolute Percentage Error (MAPE). The results indicated that the Ridge model achieved the highest accuracy.
 
 ---
 
-## Categorization of Illegal Parking Incidents
+## Classification Analysis & Evaluation
 
 To categorize the count of illegal parking incidents as "low" or "high," we utilized several machine learning models: Decision Tree, K-Nearest Neighbors (KNN), Random Forest, and XGBoost. The performance evaluation included metrics such as Accuracy, Confusion Matrix, Precision, Recall, F1 Score, and K-Fold Cross Validation. Based on the K-Fold evaluation results, the Random Forest model demonstrated the highest accuracy.
 
