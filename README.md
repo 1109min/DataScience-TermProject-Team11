@@ -2,11 +2,16 @@
 
 # End-to-End Process for Illegal Parking Prediction
 
-This project is part of the Data Science course at the Software Engineering Department of Gachon University. The purpose of this project is to predict and identify factors related to illegal parking issues in Seongnam City, Gyeonggi Province, South Korea.
+This project is part of the Data Science course at the Computer Science Department of Gachon University. The purpose of this project is to predict and identify factors related to illegal parking issues in Seongnam-si, Gyeonggi-do, South Korea.
 
 The dataset used in this project is sourced from the South Korea Open Data Portal. If any data is missing in the project folder, you can download it from the following link.
 
+To complete the project, the following data sets must be downloaded from the link provided and stored in a folder location such as 'final.py'
 * 경기도 성남시_주정차 위반 단속 위치 현황: <https://www.data.go.kr/data/15037104/fileData.do>
+* 소상공인시장진흥공단_상가(상권)정보: <https://www.data.go.kr/data/15083033/fileData.do>
+* 경기도 성남시_인구및세대_현황: <https://www.data.go.kr/data/15007386/fileData.do>
+
+The '추가데이터'(Additional Data) folder may include datasets such as:
 * 서울특별시 강동구_동별 불법주정타 단속현황: <https://www.data.go.kr/data/15081659/fileData.do>
 * 서울특별시 강서구_불법주정차 단속 현황: <https://www.data.go.kr/data/15083768/fileData.do>
 * 서울특별시 구로구_주정차단속현황: <https://www.data.go.kr/data/15034492/fileData.do>
@@ -18,8 +23,6 @@ The dataset used in this project is sourced from the South Korea Open Data Porta
 * 서울특별시 종로구_불법주정차 통계: <https://www.data.go.kr/data/15100293/fileData.do>
 * 서울특별시_강남구_불법주정차단속현황: <https://www.data.go.kr/data/15048827/fileData.do>
 * 서울특별시_서대문구_주정차 단속 현황: <https://www.data.go.kr/data/15034465/fileData.do>
-* 소상공인시장진흥공단_상가(상권)정보: <https://www.data.go.kr/data/15083033/fileData.do>
-* 경기도 성남시_인구및세대_현황: <https://www.data.go.kr/data/15007386/fileData.do>
 * 서울 인구수 데이터: <https://www.data.go.kr/data/15046938/fileData.do>
 
 ---
